@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  /Users/fatoubarry/Desktop/Paid Family Leave Replication/replicati
+> on_results.txt
+  log type:  text
+ opened on:   8 Nov 2025, 10:45:10
+
+. display "Main regression finished successfully!"
+Main regression finished successfully!
+
+. log close
+      name:  <unnamed>
+       log:  /Users/fatoubarry/Desktop/Paid Family Leave Replication/replicati
+> on_results.txt
+  log type:  text
+ closed on:   8 Nov 2025, 10:45:10
+------------------------------------------------------------------------------
